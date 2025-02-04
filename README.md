@@ -1,2 +1,2 @@
-# My-Portpolio
-Welcome to The AkhilPingali Portpolio
+# Portfolio
+A simple and clean academic portfolio for professional business purpose.
